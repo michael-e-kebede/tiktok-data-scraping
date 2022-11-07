@@ -3,4 +3,4 @@ A Repository containing portfolio of data related projects completed for academi
 
 Tools
 
-Python: NumPy, Pandas, Matplotlib, Selenium, BeautifulSoup
+- **Python**: NumPy, Pandas, Matplotlib, Selenium, BeautifulSoup
