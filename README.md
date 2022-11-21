@@ -3,4 +3,4 @@ A Repository containing portfolio of data related projects completed for self le
 
 Tools
 
-- **Python**: NumPy, Pandas, Matplotlib, Selenium, BeautifulSoup
+- **Python**: NumPy, Pandas, Selenium, BeautifulSoup
